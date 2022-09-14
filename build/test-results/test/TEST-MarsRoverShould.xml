@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MarsRoverShould" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-14T08:58:38" hostname="LAPTOP-U79Q27T1" time="0.042">
+  <properties/>
+  <testcase name="[1] R, E" classname="MarsRoverShould" time="0.036"/>
+  <testcase name="[2] RR, S" classname="MarsRoverShould" time="0.001"/>
+  <testcase name="[3] RRR, W" classname="MarsRoverShould" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
